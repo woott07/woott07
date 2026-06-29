@@ -1,15 +1,18 @@
+<div align="center">
+  <img src="./images/f846de97e5949347a870291c30f318bd.jpg" width="100%" />
+</div>
 
-# Md Rana
+# <img src="./images/b9b9fbf45fd39537d599e5e39be34020-removebg-preview.png" width="40" style="vertical-align: middle;" /> Md Rana
 
 > Building useful software. Learning deeply. Shipping consistently.
 
-`Python` · `JavaScript` · `Node.js` · `AI/ML`
+`Python` · `JavaScript` · `Node.js` · `c++` · `c` · `HTML` · `CSS`
 
 ---
 
 ## /about
 
-I'm a Computer Science (AI & ML) student from West Bengal, India.
+I'm a Computer Science student from West Bengal, India.
 
 I enjoy building backend projects, Discord bots, and learning how software works under the hood. Most of my projects start as experiments and become opportunities to learn something new.
 
@@ -22,7 +25,7 @@ $ now
 
 learning
 ├── Data Structures & Algorithms
-├── Machine Learning
+├── Networking
 └── Backend Development
 
 building
@@ -59,12 +62,16 @@ Documenting my progress while learning algorithms and problem solving.
 
 ---
 
-## /github
+## /recent
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=woott07&show_icons=true&theme=transparent&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woott07&layout=compact&theme=transparent&hide_border=true"/>
-</p>
+> Repositories I've been working on lately.
+
+| Repository | Description |
+|:--|:--|
+| [🤖 woott07](https://github.com/woott07/woott07) | My GitHub profile README |
+| [🎵 Discord Bot](https://github.com/woott07) | Music & utility bot built with Discord.js |
+| [🧪 AI Experiments](https://github.com/woott07) | Small projects exploring ML concepts |
+| [💻 LeetCode](https://github.com/woott07) | DSA problem-solving journey |
 
 ---
 
@@ -80,13 +87,22 @@ Documenting my progress while learning algorithms and problem solving.
 
 ## /philosophy
 
-```cpp
-while (alive) {
-    learn();
-    build();
-    improve();
-}
+```python
+def alive():
+    while True:
+        sleep()
+        eat()
+        code()
+        repeat()
 ```
+
+---
+
+## /quote
+
+> *"Error 404: My brain is not loading..."*
+> — Me
+
 
 ---
 
@@ -94,7 +110,7 @@ while (alive) {
 
 - GitHub: https://github.com/woott07
 - LinkedIn: https://www.linkedin.com/in/md-rana-a686b83a6/
-- Email: sowelra0786@gmail.com
+- Email: 
 
 ---
 
