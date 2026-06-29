@@ -70,7 +70,7 @@ Documenting my progress while learning algorithms and problem solving.
 |:--|:--|
 | [🤖 woott07](https://github.com/woott07/woott07) | My GitHub profile README |
 | [🎵 Snax bot](https://github.com/woott07/Snax-bot) | Music & utility bot built with Discord.js |
-| [🧪 Website](https://github.com/woott07/Snax-web) | Small projects exploring ML concepts |
+| [🧪 Website](https://github.com/woott07/Snax-web) | Discord bot Website |
 | [💻 LeetCode](https://github.com/woott07) | DSA problem-solving journey |
 
 ---
