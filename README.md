@@ -51,7 +51,7 @@ motto: "Build things that solve real problems."
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woott07&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6&card_width=350" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woott07&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6&card_width=350&cache_seconds=86400" alt="Top Languages" />
 
 </td>
 </tr>
@@ -109,9 +109,11 @@ motto: "Build things that solve real problems."
 
 <div align="center">
 
-<a href="https://github.com/woott07?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=woott07&repo=woott07&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" />
-</a>
+| &nbsp; | Project | Description |
+|:---:|:---|:---|
+| 🤖 | [**woott07**](https://github.com/woott07/woott07) | My GitHub profile — you're looking at it right now |
+| 🔧 | [**Project Name**](https://github.com/woott07) | *Add your project description here* |
+| 🔧 | [**Project Name**](https://github.com/woott07) | *Add your project description here* |
 
 > 🔗 &nbsp;*Explore more projects at* [**github.com/woott07**](https://github.com/woott07?tab=repositories)
 
@@ -127,9 +129,9 @@ motto: "Build things that solve real problems."
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=woott07&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=1f6feb&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=woott07&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=1f6feb&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
 &nbsp;
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=woott07&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" alt="GitHub Streak" />
+<img width="49%" src="https://streak-stats.demolab.com?user=woott07&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" alt="GitHub Streak" />
 
 </div>
 
@@ -145,7 +147,7 @@ motto: "Build things that solve real problems."
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=woott07&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=woott07&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&cache_seconds=86400" alt="GitHub Trophies" />
 
 </div>
 
