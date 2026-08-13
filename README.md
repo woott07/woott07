@@ -96,7 +96,7 @@ building
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=woott07&theme=tokyonight&hide_border=true&border_radius=8" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woott07&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=woott07&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="48%" />
 </p>
 
 ---
