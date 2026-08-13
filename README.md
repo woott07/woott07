@@ -2,19 +2,20 @@
   <img src="./images/f846de97e5949347a870291c30f318bd.jpg" width="100%" />
 </div>
 
-# <img src="./images/b9b9fbf45fd39537d599e5e39be34020-removebg-preview.png" width="40" style="vertical-align: middle;" /> Md Rana
+# <img src="./images/b9b9fbf45fd39537d599e5e39be34020-removebg-preview.png" width="40" style="vertical-align: middle;" /> Md Sowel Rana
 
+> First-year B.Tech Computer Science student @ Sister Nivedita University | Software Development & AI/ML Enthusiast
 > Building useful software. Learning deeply. Shipping consistently.
 
-`Python` · `JavaScript` · `Node.js` · `c++` · `c` · `HTML` · `CSS`
+`Python` · `JavaScript` · `Kotlin` · `Node.js` · `REST APIs` · `C` · `HTML` · `CSS`
 
 ---
 
-## /about
+## /about <img src="./images/cats.jpg" width="50" style="vertical-align: middle;" />
 
-I'm a Computer Science student from West Bengal, India.
+I'm a **Computer Science** student at **Sister Nivedita University, Kolkata**, passionate about backend development, Android applications, Discord bots, and AI/ML.
 
-I enjoy building backend projects, Discord bots, and learning how software works under the hood. Most of my projects start as experiments and become opportunities to learn something new.
+I enjoy building practical software, exploring how systems work under the hood, and learning through hands-on experimentation. From offline encrypted Android apps to scalable audio streaming bots, I turn ideas into clean, functional projects.
 
 ---
 
@@ -23,61 +24,68 @@ I enjoy building backend projects, Discord bots, and learning how software works
 ```bash
 $ now
 
+role
+└── 🎓 Google Student Ambassador
+
 learning
-├── Data Structures & Algorithms
-├── Networking
-└── Backend Development
+├── 🤖 AI / Machine Learning & Data Science Concepts
+├── 📱 Android Architecture & Jetpack Compose
+└── 💻 Data Structures & Algorithms
 
 building
-├── Discord Bot
-└── Personal Projects
-
-next
-└── First Open Source Contribution
+├── 🔋 Battery Life (Encrypted Offline Android App)
+└── 🎵 Snax Bot (Lavalink Music Bot)
 ```
 
 ---
 
 ## /toolbox
 
-| Category | Technologies |
-|----------|--------------|
-| Languages | Python · JavaScript · HTML · CSS |
-| Backend | Node.js |
-| Tools | Git · GitHub · Linux · VS Code |
-| Currently Learning | AI · Machine Learning |
+| Category | Technologies & Tools |
+|----------|----------------------|
+| **Languages** | Python · JavaScript · Kotlin · C |
+| **Backend & APIs** | Node.js · REST APIs |
+| **Mobile & Web** | Jetpack Compose · HTML · CSS |
+| **Database & Security** | Room · SQLCipher · AndroidX Security |
+| **Tools & Platforms** | Git · GitHub · Linux · CLI · Android Studio · WorkManager |
+| **AI/ML & Data** | AI/ML Fundamentals · Data Science Concepts |
 
 ---
 
-## /selected-work
+## /education
 
-### 🎵 Discord Bot
-A music & utility bot built with Discord.js and Node.js.
+- **Sister Nivedita University, Kolkata**
+  - **Degree**: Bachelor of Technology (B.Tech) in Computer Science
+  - **Duration**: July 2026 – May 2030
 
-### 🤖 AI Experiments
-Small projects exploring machine learning concepts and automation.
+---
 
-### 💻 LeetCode Journey
-Documenting my progress while learning algorithms and problem solving.
+## /certifications & achievements
+
+- 🌟 **Google Student Ambassador**
+- 🐍 **Python for Data Science, AI & Development**
+- 🛡️ **Deloitte Australia** – Technology Job Simulation & Cyber Job Simulation
+- 🌐 **Introduction to HTML, CSS & JavaScript**
+- 🏆 **Fresher's Party Night Challenge II**
 
 ---
 
 ## /recent
 
-> Repositories I've been working on lately.
+> Repositories & work I've been focusing on:
 
 | Repository | Description |
 |:--|:--|
 | [🤖 woott07](https://github.com/woott07/woott07) | My GitHub profile README |
-| [🎵 Snax bot](https://github.com/woott07/Snax-bot) | Music & utility bot built with Discord.js |
-| [🧪 Website](https://github.com/woott07/Snax-web) | Discord bot Website |
-| [💻 LeetCode](https://github.com/woott07) | DSA problem-solving journey |
+| [🔋 batteryLife](https://github.com/woott07/batteryLife) | Offline encrypted Android battery & screen-time tracker |
+| [🎵 Snax-Bot](https://github.com/woott07/Snax-Bot) | Lavalink-based Discord music bot |
+| [🧪 Snax-web](https://github.com/woott07/Snax-web) | Discord bot web interface |
 
 ---
 
 ## /contributions
 
-> Every green square represents time spent learning.
+> Every green square represents time spent learning and building.
 
 <p align="center">
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
@@ -103,15 +111,14 @@ def alive():
 > *"Error 404: My brain is not loading..."*
 > — Me
 
-
 ---
 
 ## /connect
 
-- GitHub: https://github.com/woott07
-- LinkedIn: https://www.linkedin.com/in/md-rana-a686b83a6/
-- Email: 
+- **Email**: [sowelrana006@gmail.com](mailto:sowelrana006@gmail.com)
+- **LinkedIn**: [Md Rana](https://www.linkedin.com/in/md-rana-a686b83a6/)
+- **GitHub**: [woott07](https://github.com/woott07)
 
 ---
 
-<sub>Thanks for stopping by.</sub>
+<sub>Thanks for stopping by!</sub>
