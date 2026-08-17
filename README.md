@@ -95,7 +95,7 @@ building
 ## /stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=woott07&theme=tokyonight&hide_border=true&border_radius=8" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=woott07&theme=tokyonight&hide_border=true&border_radius=8" />
 </p>
 
 ---
