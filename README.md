@@ -98,12 +98,6 @@ building
   <img src="https://streak-stats.demolab.com/?user=woott07&theme=default&hide_border=false&border_radius=8&timezone=Asia/Kolkata" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=woott07&theme=default" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=woott07&theme=default" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=woott07&theme=default&utcOffset=5.5" width="32%" />
-</p>
-
 ---
 
 ## /contributions
