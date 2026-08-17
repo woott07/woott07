@@ -95,7 +95,7 @@ building
 ## /stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=woott07&theme=tokyonight&hide_border=true&border_radius=8" />
+  <img src="https://streak-stats.demolab.com/?user=woott07&theme=tokyonight&hide_border=true&border_radius=8&timezone=Asia/Kolkata" />
 </p>
 
 ---
