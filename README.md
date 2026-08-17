@@ -6,16 +6,16 @@
 
 <div align="center">
   <a href="https://github.com/woott07">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=61AFEF&center=true&vCenter=true&width=550&lines=First-year+B.Tech+CS+Student+%40+Sister+Nivedita+University;Google+Student+Ambassador+%F0%9F%8D%93;Android+%26+Backend+Developer;Building+useful+software.+Shipping+consistently." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=2DA44E&center=true&vCenter=true&width=550&lines=First-year+B.Tech+CS+Student+%40+Sister+Nivedita+University;Google+Student+Ambassador+%F0%9F%8D%93;Android+%26+Backend+Developer;Building+useful+software.+Shipping+consistently." alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <code><img height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> Python</code> ·
-  <code><img height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> JavaScript</code> ·
-  <code><img height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"> Kotlin</code> ·
-  <code><img height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> Node.js</code> ·
-  <code><img height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"> C / C++</code>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 </p>
 
 ---
@@ -95,17 +95,31 @@ building
 ## /stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=woott07&theme=tokyonight&hide_border=true&border_radius=8&timezone=Asia/Kolkata" />
+  <img src="https://streak-stats.demolab.com/?user=woott07&theme=default&hide_border=false&border_radius=8&timezone=Asia/Kolkata" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=woott07&theme=default" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=woott07&theme=default" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=woott07&theme=default&utcOffset=5.5" width="32%" />
 </p>
 
 ---
 
 ## /contributions
 
-> Every green square represents time spent learning and building.
+> Every block represents time spent learning and building.
 
 <p align="center">
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+  <img src="./profile-3d-contrib/profile-gitblock.svg" width="100%">
+</p>
+
+---
+
+## /activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=woott07&theme=github-light&hide_border=true&border_radius=8&bg_color=ffffff&color=2da44e&line=2da44e&point=1a7f37" width="100%" />
 </p>
 
 ---
