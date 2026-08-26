@@ -105,7 +105,33 @@ building
 > Every block represents time spent learning and building.
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-gitblock.svg" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg" />
+    <img src="./profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D contribution graph" />
+  </picture>
+</p>
+
+---
+
+## /snake
+
+> My commits, getting eaten one by one 🐍
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/woott07/woott07/dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/woott07/woott07/dist/github-snake.svg" />
+    <img alt="🐍 snake eating my commits" src="https://raw.githubusercontent.com/woott07/woott07/dist/github-snake.svg" width="100%" />
+  </picture>
+</p>
+
+---
+
+## /trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=woott07&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%" alt="GitHub Trophies" />
 </p>
 
 ---
