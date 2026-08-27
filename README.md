@@ -95,7 +95,13 @@ building
 ## /stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=woott07&theme=default&hide_border=false&border_radius=8&timezone=Asia/Kolkata" />
+  <img src="https://streak-stats.vercel.app/?user=woott07&theme=github-dark-blue&hide_border=false&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="48%" />
+  &nbsp;
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Languages Breakdown" width="48%" />
 </p>
 
 ---
@@ -110,36 +116,6 @@ building
     <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg" />
     <img src="./profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D contribution graph" />
   </picture>
-</p>
-
----
-
-## /snake
-
-> My commits, getting eaten one by one 🐍
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/woott07/woott07/dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/woott07/woott07/dist/github-snake.svg" />
-    <img alt="🐍 snake eating my commits" src="https://raw.githubusercontent.com/woott07/woott07/dist/github-snake.svg" width="100%" />
-  </picture>
-</p>
-
----
-
-## /trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=woott07&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%" alt="GitHub Trophies" />
-</p>
-
----
-
-## /activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=woott07&theme=github-light&hide_border=true&border_radius=8&bg_color=ffffff&color=2da44e&line=2da44e&point=1a7f37" width="100%" />
 </p>
 
 ---
