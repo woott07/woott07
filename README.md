@@ -99,9 +99,9 @@ building
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=woott07&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8" alt="GitHub Stats" />
   &nbsp;
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Languages Breakdown" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=woott07&layout=compact&theme=tokyonight&hide_border=false&border_radius=8" alt="Top Languages" />
 </p>
 
 ---
@@ -111,11 +111,7 @@ building
 > Every block represents time spent learning and building.
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg" />
-    <img src="./profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D contribution graph" />
-  </picture>
+  <img src="./profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D GitHub Contribution Graph" />
 </p>
 
 ---
