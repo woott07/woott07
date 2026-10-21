@@ -141,6 +141,7 @@ def alive():
 - **Email**: [sowelrana006@gmail.com](mailto:sowelrana006@gmail.com)
 - **LinkedIn**: [Md Rana](https://www.linkedin.com/in/md-sowel-rana/)
 - **GitHub**: [woott07](https://github.com/woott07)
+- **Kaggle**: [Md Sowel Rana](https://www.kaggle.com/mdsowelrana)
 
 ---
 
