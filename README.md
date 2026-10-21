@@ -131,7 +131,7 @@ def alive():
 
 ## /quote
 
-> *"Error 404: My brain is not loading.."*
+> *"I wonder if you ever miss me"*
 > — Me
 
 ---
