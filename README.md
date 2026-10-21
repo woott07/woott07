@@ -139,7 +139,7 @@ def alive():
 ## /connect
 
 - **Email**: [sowelrana006@gmail.com](mailto:sowelrana006@gmail.com)
-- **LinkedIn**: [Md Rana](https://www.linkedin.com/in/md-rana)
+- **LinkedIn**: [Md Rana](https://www.linkedin.com/in/md-sowel-rana/)
 - **GitHub**: [woott07](https://github.com/woott07)
 
 ---
